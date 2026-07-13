@@ -261,7 +261,7 @@ HTML_TEMPLATE = '''
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>ARAFAT ULTRA TERMINAL v3.0 & FF INFO</title>
+    <title>FREXY ULTRA TERMINAL v3.0 & FF INFO</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600;800;900&family=Rajdhani:wght@500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -606,17 +606,17 @@ HTML_TEMPLATE = '''
 
     <header class="flex flex-col items-center justify-center my-4 text-center">
         <h1 class="text-3xl font-extrabold tracking-wider uppercase font-poppins bg-gradient-to-r from-cyan-400 via-pink-500 to-yellow-400 text-transparent bg-clip-text drop-shadow">
-            ARAFAT CONTROL PANEL
+            FREXY CONTROL PANEL
         </h1>
         <p class="text-xs font-semibold tracking-widest text-[#a0aec0] uppercase mt-1 mb-5">
             Premium Cyber Infrastructure v3.0
         </p>
         
         <div class="flex flex-wrap items-center justify-center gap-3 mt-1 mb-2">
-            <a href="https://t.me/mr_ghost34" target="_blank" class="cyber-link-btn">
+            <a href="https://t.me/FREXY_OFC" target="_blank" class="cyber-link-btn">
                 <i class="fa-brands fa-telegram text-base"></i> TELEGRAM CHANNEL
             </a>
-            <a href="https://t.me/jubayer_ahmed_34" target="_blank" class="cyber-link-btn" style="color: #00ffcc; border-color: rgba(0, 255, 204, 0.4); background: rgba(0, 255, 204, 0.05);">
+            <a href="https://t.me/Frexy1only" target="_blank" class="cyber-link-btn" style="color: #00ffcc; border-color: rgba(0, 255, 204, 0.4); background: rgba(0, 255, 204, 0.05);">
                 <i class="fa-solid fa-address-card text-base"></i> CONTACT DEVELOPER
             </a>
         </div>
