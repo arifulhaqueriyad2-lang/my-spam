@@ -645,7 +645,7 @@ HTML_TEMPLATE = '''
             <div class="panel-title-bar">
                 <div class="panel-indicator" style="background:#ff0080; box-shadow:0 0 10px #ff0080;"></div>
                 <i class="fa-solid fa-crosshairs text-[#ff3366]"></i>
-                <h2 class="neon-text-magenta">ARAFAT UNLIMITED MODE</h2>
+                <h2 class="neon-text-magenta">FREXY UNLIMITED MODE</h2>
             </div>
             
             <div class="space-y-4">
@@ -682,7 +682,7 @@ HTML_TEMPLATE = '''
             <div class="panel-title-bar">
                 <div class="panel-indicator" style="background:#00ffcc; box-shadow:0 0 10px #00ffcc;"></div>
                 <i class="fa-solid fa-robot text-[#00ffcc]"></i>
-                <h2>CONNECTED ARAFAT BOTS</h2>
+                <h2>CONNECTED FREXY BOTS</h2>
             </div>
             <div class="panel-scroll overflow-y-auto max-h-[140px] space-y-2" id="accountList">
                 <div class="text-center text-sm text-gray-500 py-4 flex items-center justify-center gap-2">
@@ -696,7 +696,7 @@ HTML_TEMPLATE = '''
     <section class="mt-8 text-center border-t border-green-500/10 pt-4 bg-black/20 rounded-xl p-3">
         <p class="text-slate-400 font-mono text-[13px] tracking-widest mb-2.5 uppercase">Developer <span class="text-green-400 font-extrabold">ARAFAT</span></p>
         <div class="social-dock flex justify-center">
-            <a href="https://t.me/jubayer_ahmed_34" target="_blank" class="w-10 h-10 rounded-xl bg-black/60 border border-green-500/30 flex items-center justify-center text-cyberGreen text-lg transition-all active:scale-90" title="Telegram Node Connect">
+            <a href="https://t.me/FREXY_OFC" target="_blank" class="w-10 h-10 rounded-xl bg-black/60 border border-green-500/30 flex items-center justify-center text-cyberGreen text-lg transition-all active:scale-90" title="Telegram Node Connect">
                 <i class="fa-brands fa-telegram"></i>
             </a>
         </div>
@@ -709,7 +709,7 @@ HTML_TEMPLATE = '''
     <div class="toast-container" id="toast-container"></div>
 
     <script>
-        const API_BASE_URL = 'https://player-inf-b-krpro.ercel.app/get?uid='; 
+        const API_BASE_URL = 'https://player-inf-b-krpro.vercel.app/get?uid='; 
         const DEFAULT_IMG_URL = 'https://raw.githubusercontent.com/ashqking/FF-Items/main/ICONS/900000013.png';
         const PLACEHOLDER_URL = 'https://via.placeholder.com/150/020503/FFFFFF?text=Player';
         
